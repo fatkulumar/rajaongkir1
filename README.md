@@ -5,7 +5,7 @@ ini adalah api data kota & kabupaten dari rajaongkir.com
 ## Install
 
 - Clone aplikasi ini
-    > lorem
+    > https://github.com/fatkulumar/rajaongkir1.git
 - Setting database di file .env
 - Migrate database
     > php artisan migrate
