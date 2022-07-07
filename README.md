@@ -6,8 +6,6 @@ ini adalah api data kota & kabupaten dari rajaongkir.com
 
 - Clone aplikasi ini
     > https://github.com/fatkulumar/rajaongkir1.git
-- Copy file .env.example dan ubah menjadi .env
-
 
 ## API
 Gunakan aplikasi postman atau sejenis untuk mencoba aplikasi laravel tersebut
